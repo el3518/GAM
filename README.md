@@ -27,7 +27,7 @@ Run "mda2s_cb.py" for source domains, "mds2sf_cb.py" for target domain.
 
 | Task  | D | W  | A | Avg  | 
 | ---- | ---- | ---- | ---- | ---- |
-| MSCLDA  | 99.5  | 98.7  | 75.4  | 91.2 |
+| GAM  | 99.5  | 98.7  | 75.4  | 91.2 |
 
 
 Please consider citing if you find this helpful or use this code for your research.
